@@ -13,6 +13,7 @@ pip install pyecharts
 参考：
 https://blog.csdn.net/u012535605/article/details/80677791
 https://www.jianshu.com/p/e0b2851672cd
+http://pyecharts.org/#/zh-cn/prepare
 
 【词云图展示】
 pip install wordcloud

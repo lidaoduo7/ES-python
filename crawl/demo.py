@@ -125,5 +125,5 @@ if __name__ == '__main__':
 
     # save()
 
-    # word_cloud_show()
+    word_cloud_show()
 
