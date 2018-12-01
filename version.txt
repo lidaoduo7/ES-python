@@ -1,0 +1,32 @@
+【使用Python连接ES进行操作】
+参考：
+https://blog.csdn.net/liuzemeeting/article/details/80708035
+
+
+
+【ES的配置】
+跨域
+IP地址
+
+【可视化展示】
+pip install pyecharts
+参考：
+https://blog.csdn.net/u012535605/article/details/80677791
+https://www.jianshu.com/p/e0b2851672cd
+
+【词云图展示】
+pip install wordcloud
+参考：https://blog.csdn.net/fyuanfena/article/details/52038984
+
+【】
+增量爬取数据，将文档的ID设置为爬取日期，方便后面索引！
+
+
+【升级】
+获取json格式的数据，写入ES（待完成）
+
+
+
+
+
+
